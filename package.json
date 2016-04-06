@@ -1,0 +1,23 @@
+{
+  "name": "heroku301codefellows",
+  "version": "1.0.0",
+  "description": "\"heroku301codefellows deployment\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"test\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubiksron/heroku301codefellows.git"
+  },
+  "author": "\"RonDunphy\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubiksron/heroku301codefellows/issues"
+  },
+  "homepage": "https://github.com/Rubiksron/heroku301codefellows#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
