@@ -110,6 +110,8 @@ ul li {
   border-color: red;
   background-color: yellow;
   text-align: center;
+  width: 74em;
+
 }
 #warning h2 {
   z-index: 1;
