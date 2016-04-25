@@ -1,23 +1,16 @@
 {
-  "name": "heroku301codefellows",
+  "name": "anti-tourist-trap",
   "version": "1.0.0",
-  "description": "\"heroku301codefellows deployment\"",
+  "description": "a guide to the city",
   "main": "server.js",
   "scripts": {
-    "test": "\"test\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rubiksron/heroku301codefellows.git"
-  },
-  "author": "\"RonDunphy\"",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Rubiksron/heroku301codefellows/issues"
-  },
-  "homepage": "https://github.com/Rubiksron/heroku301codefellows#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "pg": "^4.5.3"
   }
 }
