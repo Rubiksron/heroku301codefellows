@@ -72,6 +72,8 @@ input[type=checkbox] {
   -webkit-transform: scale(5); /* Safari and Chrome */
   -o-transform: scale(5); /* Opera */
   padding: 1em;
+  margin: .5em;
+  margin-bottom: 1em;
 }
 
 .title {
@@ -93,8 +95,8 @@ html {
 }
 .intro {
   color: white;
-  margin-right: 4em;
   line-height: 2.5;
+  font-size: 3em;
 }
 ul li {
   display: inline-block;
@@ -145,7 +147,8 @@ div#texttop {
 #initForm {
   color: white;
   width: 13em;
-  font-size: 6em;
+  font-size: 5em;
+  margin-left: 1.5em;
 }
 #homeDiv {
   width: 80em;
@@ -178,7 +181,8 @@ div#texttop {
   float:right;
 }
 #primary_nav_wrap {
-	margin-top:15px
+	margin-top:2em;
+  margin-left: 3em;
 }
 
 #primary_nav_wrap ul {
